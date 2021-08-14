@@ -1,2 +1,2 @@
-# spoon
-PCB原理图
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+The project descripe: about spoon's PCB
