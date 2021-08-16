@@ -2,6 +2,3 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
   
   For more information, please check Tuya Developer Website.
 
-
-
-The project descripe: about spoon's PCB
